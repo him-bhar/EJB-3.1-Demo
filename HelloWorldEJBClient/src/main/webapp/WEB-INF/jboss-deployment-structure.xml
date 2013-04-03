@@ -1,0 +1,9 @@
+<jboss-deployment-structure>
+	<deployment>
+		<dependencies>
+			<module name="com.netent.jdbc" />
+<!-- 			<module name="com.sqljdbc" /> -->
+<!-- 			<module name="org.jboss.ironjacamar" /> -->
+		</dependencies>
+	</deployment>
+</jboss-deployment-structure>
